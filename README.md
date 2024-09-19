@@ -1,6 +1,7 @@
 # Twitter_Data_Scraping
 Its an easy solution to scrape the twitter data and download it as different data forms or store it in a database. 
 
+### Project Link : https://www.linkedin.com/posts/datascientist-indhumathi-oumasankar_marketing-digital-tech-activity-7041101837726334976--Swl?utm_source=share&utm_medium=member_desktop
 ## Tech-world Issues and Solutions
 
 In today's digital world, Data, the rich source of information is increasingly distributed across various platforms like Facebook, Instagram, Youtube, and Twitter host vast amount of data, including photos videos, and text-based content. 
